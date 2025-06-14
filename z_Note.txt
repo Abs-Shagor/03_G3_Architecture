@@ -1,0 +1,5 @@
+To develope a resposive website, we have to follow some step:
+
+1.import the figma file to pixso or figma.com and observe it.
+2.find the font name which is used in the website and set it in html or css section from google fonts
+3.
